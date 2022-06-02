@@ -55,7 +55,9 @@ D7 = X Y Z
 ## Figure -04 8 to 3 Decoder implementation 
 
 ### Procedure
-/* write all the steps invloved */
+### Step1:
+
+
 
 
 
