@@ -96,25 +96,25 @@ endmodule
 ### RTL LOGIC 
 
 ### ENCODER:
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment-08-Encoders-and-decoders-/blob/main/en1.png?raw=true)
 
 ### DECODER:
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment-08-Encoders-and-decoders-/blob/main/de1.png?raw=true)
 
 ### TIMING DIGRAMS  
 
 ### ENCODER:
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment-08-Encoders-and-decoders-/blob/main/en2.png?raw=true)
 
 ### DECODER:
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment-08-Encoders-and-decoders-/blob/main/de2.png?raw=true)
 ### TRUTH TABLE 
 
 ### ENCODER:
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment-08-Encoders-and-decoders-/blob/main/en3.png?raw=true)
 
 ### DECODER:
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment-08-Encoders-and-decoders-/blob/main/de3.png?raw=true)
 
 
 
