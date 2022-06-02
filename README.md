@@ -67,9 +67,8 @@ Developed by: Aruru Sai Bandhavi
 
 RegisterNumber:  212221240006
 */
-```
 ### ENCODER:
-
+```
 module ENCODE(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
 input d0,d1,d2,d3,d4,d5,d6,d7;
 output a,b,c;
@@ -78,9 +77,9 @@ or(b,d2,d3,d6,d7);
 or(c,d1,d3,d5,d6);
 endmodule
 ```
-```
-### DECODER:
 
+### DECODER:
+```
 module decode(d0,d1,d2,d3,d4,d5,d6,d7,a,b,c);
 output d0,d1,d2,d3,d4,d5,d6,d7;
 input a,b,c;
@@ -118,9 +117,4 @@ endmodule
 ### DECODER:
 ![output](https://github.com/Saibandhavi75/Experiment-08-Encoders-and-decoders-/blob/main/de3.png?raw=true)
 
-
-
-
-
-
-### RESULTS 
+### RESULTS :
