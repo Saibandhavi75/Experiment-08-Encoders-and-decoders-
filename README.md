@@ -55,11 +55,23 @@ D7 = X Y Z
 ## Figure -04 8 to 3 Decoder implementation 
 
 ### Procedure
-### Step1:
+### Step 1:
+Open Quartus II and select new project and choose the file location.
 
+### Step 2:
+Module Declaration. Module should have the file name.
 
+### Step 3:
+Input-Output Delecaration.
 
+### Step 4:
+Use assign to define the functionality of logic circuits.
 
+### Step 5:
+At the end give endmodule.
+
+### Step 6:
+Run the program and choose RTL viewer to get RTL realization.
 
 ### PROGRAM 
 /*
@@ -120,3 +132,4 @@ endmodule
 ![output](https://github.com/Saibandhavi75/Experiment-08-Encoders-and-decoders-/blob/main/de3.png?raw=true)
 
 ### RESULTS :
+8 to 3 Encoder and 3to8 Decoder has been implemented by using verilog and its outputs are validated.
